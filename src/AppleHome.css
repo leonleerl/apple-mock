@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.title {
+    @apply mb-2 text-xl font-bold group-hover:text-white;
+}
